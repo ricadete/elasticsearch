@@ -51,8 +51,8 @@ Here are examples of how to set the heap size via the jvm.options file:
 -Xms2g <1>
 -Xmx2g <2>
 ------------------
-<1> Set the minimum heap size to 2g.
-<2> Set the maximum heap size to 2g.
+<1> Set the minimum heap size to 2 GB.
+<2> Set the maximum heap size to 2 GB.
 
 It is also possible to set the heap size via an environment variable.
 This can be done by commenting out the `Xms` and `Xmx` settings
